@@ -36,6 +36,7 @@ Here's the full list of functions.
 /function io:bow_flame
 /function io:bowinf
 /function io:bowinf_flame
+/function io:arrow
 
 # Give all armor
 /function io:armor

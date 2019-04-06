@@ -18,3 +18,22 @@ give @s bow{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:power,lvl
 give @s bow{Enchantments:[{id:unbreaking,lvl:3},{id:infinity,lvl:1},{id:power,lvl:5},{id:punch,lvl:2},{id:flame,lvl:1}]} 1
 give @s arrow 64
 give @s shield
+give @s observer 64
+give @s repeater 64
+give @s comparator 64
+give @s dispenser 64
+give @s sticky_piston 64
+give @s piston 64
+give @s redstone_dust 64
+give @s redstone_torch 64
+give @s lever 64
+give @s redstone_lamp 64
+give @s hopper 64
+give @s dropper 64
+give @s chest 64
+give @s trapped_chest 64
+give @s iron_trapdoor 64
+give @s tripwire_hook 64
+give @s redstone_block 64
+give @s daylight_detector 64
+give @s note_block 64

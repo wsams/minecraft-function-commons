@@ -48,4 +48,35 @@ Here's the full list of functions.
 
 # A mining function. It digs straight forward while lighting the path.
 /function io:dig
+
+# Redstone
+
+# Give all redstone items.
+/function io:redstone_all
+
+# These items plus the redstone_common items make up redstone_all. Give individually.
+/function io:chest
+/function io:daylight_detector
+/function io:iron_trapdoor
+/function io:lever
+/function io:note_block
+/function io:redstone_lamp
+/function io:trapped_chest
+/function io:tripwire_hook
+
+# Give common redstone items
+/function io:redstone_common
+
+# Common redstone items. Give individually.
+/function io:comparator
+/function io:dispenser
+/function io:dropper
+/function io:hopper
+/function io:observer
+/function io:piston
+/function io:redstone_block
+/function io:redstone_dust
+/function io:redstone_torch
+/function io:repeater
+/function io:sticky_piston
 ```

@@ -15,10 +15,10 @@ For example in the command line, if you want everything run `/function io:all`. 
 Here's the full list of functions.
 
 ```
-# Gives all tools and armor
+# Give all tools and armor
 /function io:all
 
-# Gives all tools
+# Give all tools
 /function io:tools
 
 # These are all of the tools. Give individually.
@@ -33,7 +33,7 @@ Here's the full list of functions.
 /function io:rod
 /function io:elytra
 
-# Gives all armor
+# Give all armor
 /function io:armor
 
 # These are the pieces of armor. Give individually.

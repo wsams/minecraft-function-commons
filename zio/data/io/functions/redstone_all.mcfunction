@@ -4,7 +4,7 @@ give @s comparator 64
 give @s dispenser 64
 give @s sticky_piston 64
 give @s piston 64
-give @s redstone_dust 64
+give @s redstone 64
 give @s redstone_torch 64
 give @s lever 64
 give @s redstone_lamp 64

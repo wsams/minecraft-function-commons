@@ -32,6 +32,10 @@ Here's the full list of functions.
 /function io:hoe
 /function io:rod
 /function io:elytra
+/function io:bow
+/function io:bow_flame
+/function io:bowinf
+/function io:bowinf_flame
 
 # Give all armor
 /function io:armor

@@ -11,6 +11,7 @@ give @s bow{Enchantments:[{id:unbreaking,lvl:3},{id:infinity,lvl:1},{id:power,lv
 give @s bow{Enchantments:[{id:unbreaking,lvl:3},{id:infinity,lvl:1},{id:power,lvl:5},{id:punch,lvl:2},{id:flame,lvl:1}]} 1
 give @s chest 64
 give @s comparator 64
+give @s crossbow{Enchantments:[{id:sharpness,lvl:5},{id:multishot,lvl:1},{id:piercing,lvl:4},{id:quick_charge,lvl:3},{id:unbreaking,lvl:3}]
 give @s daylight_detector 64
 give @s diamond_axe{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:efficiency,lvl:5},{id:sharpness,lvl:5}]} 1
 give @s diamond_boots{Enchantments:[{id:mending,lvl:1},{id:unbreaking,lvl:3},{id:protection,lvl:4},{id:thorns,lvl:3},{id:feather_falling,lvl:4},{id:frost_walker,lvl:2},{id:depth_strider,lvl:3}]} 1
